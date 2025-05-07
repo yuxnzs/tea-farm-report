@@ -34,7 +34,7 @@ export default function AreaGrowthChart({ data }: Props) {
             margin={{
                 top: 40,
                 right: 30,
-                left: 0,
+                left: -19,
                 bottom: 0,
             }}
         >

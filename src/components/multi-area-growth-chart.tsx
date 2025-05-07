@@ -42,7 +42,7 @@ export default function MultiAreaGrowthChart({ data }: Props) {
             margin={{
                 top: 0,
                 right: 30,
-                left: 0,
+                left: -19,
                 bottom: 0,
             }}
         >
